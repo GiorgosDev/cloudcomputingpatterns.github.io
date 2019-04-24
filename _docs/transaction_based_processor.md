@@ -6,7 +6,7 @@ redirect_from: /Transaction-based_Processor.html
 ---
 
 {: .patternintent}
-Components receive messages or read data and process the obtained information under a transactional context to ensure that all received messages are processes and all altered data is consistent after processing, respectively.
+Components receive messages or read data and process the obtained information under a transactional context to ensure that all received messages are processed and all altered data is consistent after processing, respectively.
 
 {: .patternstart}
 ------------- | -------------
